@@ -1,0 +1,1 @@
+This project is a basic implementation of a scraping script with BeautifulSoup 
